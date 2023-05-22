@@ -1,0 +1,9 @@
+* infix-math
+
+An extensible infix syntax for math in Common Lisp.
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/ruricolist/infix-math.git |
+| commit  | f5155ae                                          |
+| systems | infix-math                                       |
+|---------+--------------------------------------------------|

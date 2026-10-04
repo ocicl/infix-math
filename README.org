@@ -4,7 +4,7 @@ An extensible infix syntax for math in Common Lisp.
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/ruricolist/infix-math.git |
-| commit  | b5e6c74                                          |
+| commit  | a60de9f                                          |
 | systems | infix-math                                       |
 |---------+--------------------------------------------------|
   
